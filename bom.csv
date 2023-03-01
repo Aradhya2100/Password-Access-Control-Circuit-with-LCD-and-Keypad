@@ -1,0 +1,11 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"Rpot1",1,"250 kΩ Potentiometer"
+"R1, R2, R3",3,"1 kΩ Resistor"
+"T1",1," NPN Transistor (BJT)"
+"D1",1," Diode"
+"U2",1," LCD 16 x 2"
+"KEYPAD1",1," Keypad 4x4"
+"P1",1,"15.600000000000001 , 2.6  Power Supply"
+"L1",1," Light bulb"
+"K1",1," Relay SPDT"
